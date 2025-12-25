@@ -5,7 +5,7 @@ Tweetelligence
 
 ## 👤 Team Members
 - 
-- 
+- Arian KhoshKholghhaghkerdar
 - Mohammad Yusef Saadatzadeh
 - Hasti Azimi
 - Shayan Eskandari
